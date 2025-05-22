@@ -88,7 +88,7 @@ div.campo > i {
 div.campo > input {
     background-color: #94d4d2;
     font-size: 1em;
-    width: calc(100% - 44px);
+    width: calc(100% - 44px); 
     height: 100%;  
     border: 0px;
     border-radius: 8px;

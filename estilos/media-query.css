@@ -49,5 +49,6 @@
 
     div#formulario > p {
         font-size: 1em;
+        margin: 20px 0px;
     }
 }
